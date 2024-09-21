@@ -1,6 +1,6 @@
 # Rusty Repo Remover
 
-**PERMANENTLY ** delete a pre-configured list of repositories from your Github Account. Be sure that you actually want to permanently remove these repositories before running this program with the --delete flag!
+**PERMANENTLY** delete a pre-configured list of repositories from your Github Account. Be sure that you actually want to permanently remove these repositories before running this program with the --delete flag!
 
 # Getting Started
 
