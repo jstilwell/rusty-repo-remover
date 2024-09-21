@@ -1,0 +1,7 @@
+token = "your_github_personal_access_token"
+owner = "your_github_username_or_organization"
+repos = [
+    "repo1",
+    "repo2",
+    "repo3"
+]
