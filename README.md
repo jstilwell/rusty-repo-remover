@@ -23,6 +23,8 @@
 - Set your username as the user value
 - Add some repositories (see list command below) to delete to ./config/config.toml
 
+---
+
 # Commands
 
 Update Cargo:
